@@ -1,0 +1,16 @@
+{
+  "name": "webpack-library-example",
+  "version": "1.0.0",
+  "description": "webpack-library-example",
+  "main": "index.js",
+  "repository": "https://github.com/haodaking/webpack-library-example",
+  "author": "haodaking",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
